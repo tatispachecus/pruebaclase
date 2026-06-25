@@ -74,5 +74,5 @@ Lo que cambiaríamos: definir desde el principio una única fuente de informaci�
 
 
 Reflexión sobre feedback radicalmente sincero
-Cuando se detectó el problema, mi primer impulso fue buscar quién se había equivocado. Antes de decir nada, me tomé un momento y, siguiendo lo que vimos en el curso, encaré la conversación con el equipo desde el proceso y no desde la persona: “Noté que hay candidatos que se están cargando en dos lugares distintos — quiero entender juntos cómo evitamos que esto se repita.” Eso evitó que la conversación se sintiera como una acusación y abrió espacio para que el equipo propusiera la solución sin sentirse señalado.
+Cuando se detectó el problema, mi primer impulso fue buscar quién se había equivocado. Antes de decir nada, me tomé un momento y, siguiendo lo que vimos en el curso, encaré la conversación con el equipo desde el proceso y no desde la persona: “Noté que hay candidatos que se están cargando en dos lugares distintos — quiero entender juntos cómo evitamos que esto se repita.” Eso evitó que la conversación se sintiera como una acusación y abrió espacio para que el equipo propusiera la solución sin sentirse señalado. Todos los del equipo toomaron el cambio de la mejor manera y decidimos continuar teniendo en cuenta el aprendizaje
 
